@@ -17,4 +17,4 @@ Youtube video link is :
 
 The flow of node-red will found in the repository as node-red flow.json file.
 
-You can find the discovery manual and cloud function code and assistant skill file above.
+You can find the watson discovery manual, watson assistant skill file and cloud function code and assistant skill file above.
